@@ -1,0 +1,11 @@
+p{
+    color: green;
+}
+
+.block p{
+    color: red;
+}
+
+.block{
+    border: 5px solid blue;
+}
